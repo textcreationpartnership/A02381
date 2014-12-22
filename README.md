@@ -33,11 +33,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A dialogue betwene a knyght and a clerke concernynge the power spiritual and temporall.Disputatio in
+
 #####Body#####
-A dialogue betwene a knyght and a clerke concernynge the power spiritual and temporall.Disputatio in
+¶The clerke begynneth to speke on this wyse sayenge.CLERICVS.I Wounder / syr noble knyghte / that in
 #####Back#####
-A dialogue betwene a knyght and a clerke concernynge the power spiritual and temporall.Disputatio in
+¶Imprinted at London in Fletestrete, in the house of Thomas Berthelet / nere to the cundite at the s
 **Types of content**
 
   * There are 39 **drama** parts! This is **prose drama**.
